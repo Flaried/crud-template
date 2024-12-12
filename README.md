@@ -8,7 +8,7 @@ Golang service APIs for CRUD,
 Programming Language -> HTTP Server -> Database
 
 - [x] Golang
-- [x] Echo
-- [x] Postgres
+- [] Echo
+- [] Postgres
 
 The purpose of the template project is to replace whatever technology you want to learn.
